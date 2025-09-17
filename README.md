@@ -1,8 +1,7 @@
 # Highly Skilled DevOps Engineer Adds Value To Your Business
 
 ## What I Bring to the Table
-
-Ability to adapt and learn fast. Let me help you solve your business problems. 
+- Ability to adapt and learn fast. Let me help you solve your business problems. 
 ---
 ## Core Expertise
 - Full Stack Web Development: Versed in highly sought-after libraries and frameworks such as React, Node.js, and Django.
