@@ -4,9 +4,9 @@
 - Ability to adapt and learn fast. Let me help you solve your business problems. 
 ---
 ## Core Expertise
-- Full Stack Web Development: Versed in highly sought-after libraries and frameworks such as React, Node.js, and Django.
-- Cloud Architect: Google Cloud Professional Architect with the ability to design scalable, resilient systems. 
-- DevOps Engineer: Proficient in DevOps culture and tooling such as git, Docker, Jenkins, Kubernetes, Ansible, Terraform
+- **Full Stack Web Development:** Versed in highly sought-after libraries and frameworks such as React, Node.js, and Django.
+- **Cloud Architect:** Google Cloud Professional Architect with the ability to design scalable, resilient systems. 
+- **DevOps Engineer:** Proficient in DevOps culture and tooling such as git, Docker, Jenkins, Kubernetes, Ansible, Terraform
 ---
 ## What I'm Looking For
 - Open to roles such as Cloud Architect, Cloud Engineer, SRE, or DevOps Engineer
