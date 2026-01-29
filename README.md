@@ -9,7 +9,7 @@
 - **DevOps Engineer:** Proficient in DevOps culture and tooling such as git, Docker, Jenkins, Kubernetes, Ansible, Terraform
 ---
 ## What I'm Looking For
-- Open to roles such as Cloud Architect, Cloud Engineer, SRE, or DevOps Engineer
+- Open to roles such as  Full Stack Engineer, Cloud Architect, Cloud Engineer, SRE, or DevOps Engineer
 - Remote opportunities
  ---
 ## Follow Me
